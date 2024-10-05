@@ -1,1 +1,2 @@
 # projeto-vidflow-main
+Esta aplicação foi desenvolvida para consumir uma API e exibir vídeos utilizando métodos assíncronos, aproveitando as vantagens das Promises e do async/await. O código foi aprimorado para incluir um tratamento de erros, garantindo uma melhor experiência ao usuário. Além disso, implementei funcionalidades de filtragem, permitindo que os usuários busquem vídeos por meio de uma barra de pesquisa ou selecionem categorias específicas para refinar os resultados exibidos.
